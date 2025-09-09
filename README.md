@@ -93,11 +93,10 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11159393721&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
-<br/> 
- 
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=11159393721&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=11159393721&redirect=true)
-
+<br/>  
+<!-- SPOTIFY_START -->
+...
+<!-- SPOTIFY_END -->
 <br/> 
 
 <div align="center">
