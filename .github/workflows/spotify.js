@@ -1,6 +1,6 @@
 // spotify.js
-import fs from 'fs';
-import axios from 'axios';
+const fs = require('fs');
+const axios = require('axios');
 
 const clientId = process.env.SPOTIFY_CLIENT_ID;
 const clientSecret = process.env.SPOTIFY_CLIENT_SECRET;
@@ -11,7 +11,7 @@ async function getAccessToken() {
     new URLSearchParams({
       grant_type: 'refresh_token',
       refresh_token: refreshToken
-    }), 
+    }).toString(), 
     {
       headers: {
         'Authorization': 'Basic ' + Buffer.from(`${clientId}:${clientSecret}`).toString('base64'),
