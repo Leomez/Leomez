@@ -4,10 +4,13 @@
 ## Leomez for those who know me on Github.  
   
 
-⚡I am a fullstack web developer, front oriented.
-Ever since I discovered programming in college, I loved it.
+⚡I am a fullstack web developer, with a strong focus on frontend development. Ever since I discovered programming in college, I fell in love with it and have been continuously learning and building ever since.
 
-I currently work in the area of ​​computer technical assistance at the ophthalmological center "Centro de Ojos Quilmes" 👨🏼‍⚕️ and made some contributions to the company's website.  
+I have experience creating and maintaining websites, from design to deployment, and I’m always looking to improve both technical and creative aspects of my work.
+
+🌐 Currently, I’m expanding my skills into Web3 development, learning Ethereum and Solidity to build decentralized applications.
+
+💡 Passionate about technology, problem-solving, and crafting digital experiences that make an impact.
   
 
 <br/>  
