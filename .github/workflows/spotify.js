@@ -41,11 +41,10 @@ async function updateReadme() {
   const accessToken = await getAccessToken();
   const track = await getCurrentTrack(accessToken);
   
-  let snippet = track 
+  const snippet = track 
     ? `[🎧 Now playing: **${track.name}** by ${track.artists}](${track.url})` 
     : `🎧 Not playing anything right now`;
 
-  // Leemos el README y reemplazamos la sección entre los markers
   let readme = fs.readFileSync('README.md', 'utf-8');
   const newReadme = readme.replace(
     /<!-- SPOTIFY_START -->[\s\S]*<!-- SPOTIFY_END -->/,
