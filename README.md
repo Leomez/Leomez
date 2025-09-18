@@ -92,9 +92,10 @@ I have experience creating and maintaining websites, from design to deployment, 
 <!-- SPOTIFY_START -->
 ### 🎧 Now Playing on Spotify
 
-[![Spotify](https://spoti-card.vercel.app/api/spotify)](https://open.spotify.com/user/11159393721)
 
 <!-- SPOTIFY_END -->
+[![Spotify](https://spoti-card.vercel.app/api/spotify)](https://open.spotify.com/user/11159393721)
+
 <br/> 
 
 <div align="center">
